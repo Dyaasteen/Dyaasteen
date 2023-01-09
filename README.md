@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [Lidia Sitinjak] 👋
+# Hi there, [Lidia Sitinjak] 👋
 ## My Profil:
 - 🔭 saat ini saya seorang mahasiswa
 - 🌱 saat ini saya belajar Python and Javascript
